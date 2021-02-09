@@ -55,11 +55,11 @@ catalogs:
 
 scopes:
   - name: agent:create
-    users: [pratap0007, puneetpunamiya, sm43, sthaha, vdemeester]
+    users: [pratap0007, puneetpunamiya, sm43, sthaha, vdemeester, piyush-garg]
   - name: catalog:refresh
-    users: [pratap0007, puneetpunamiya, sm43, sthaha, vdemeester]
+    users: [pratap0007, puneetpunamiya, sm43, sthaha, vdemeester, piyush-garg]
   - name: config:refresh
-    users: [pratap0007, puneetpunamiya, sm43, sthaha, vdemeester]
+    users: [pratap0007, puneetpunamiya, sm43, sthaha, vdemeester, piyush-garg]
 
 default:
   scopes:
